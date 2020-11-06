@@ -1,0 +1,23 @@
+h1{
+  color: #ffffff;
+ text-align: center;
+ background-color: black;
+}
+
+h3{
+ color: #ff6655;
+ text-align: center;
+ background-color: beige;
+}
+
+h4{
+color: forestgreen;
+}
+
+p{
+color: darkcyan
+}
+
+body{
+    background-image: url(../images/05.jpg)
+}
