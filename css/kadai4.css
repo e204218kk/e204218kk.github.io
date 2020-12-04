@@ -1,0 +1,27 @@
+h1#タイトル{
+    color:#ffff;
+   text-align: center;
+ background-color: black; 
+}
+
+h3#サブタイトル{
+color:#1ff;
+   text-align: center;
+ background-color:yellowgreen;
+}
+
+h3#sabutaitoru{
+color:#123;
+   text-align: center;
+ background-color:deepskyblue;
+}
+
+h1#リンク{
+ color:#2f0;
+   text-align: center;
+ background-color: purple;
+}
+
+body{
+    background-image: url(../images/06.jpg)
+}
